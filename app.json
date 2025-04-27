@@ -3,7 +3,7 @@
     "name": "kiron session ",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/uvyo9d.jpg",
-    "repository": "https://github.com/KIRON-MD/kironsesssion ",
+    "repository": "https://github.com/KIRON-MD/kiron-sesssion ",
     "keywords": ["KITON-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
